@@ -14,7 +14,7 @@
     color: #FFF;
     font-size: 14px;
     margin: 0;
-    padding: 14px 10px;
+    padding: 0;
     /*background: #D6D6D6*/;
 
     display: inline-block;
@@ -24,8 +24,8 @@
 
   position: absolute;
   top:0; left: 0;
-  width: 200px;
-  height: 200px;
+  width: 50%;
+  height: 75%;
   background-image: url("../images/arrows.png");
   background-repeat: no-repeat;
   background-position: left;
@@ -38,8 +38,8 @@
 .owl-next {
   position: absolute;
   top:0; right: 0;
-  width: 200px;
-  height: 200px;
+  width: 50%;
+  height: 100%;
   background-image: url("../images/arrows.png");
   background-repeat: no-repeat;
   background-position: right;

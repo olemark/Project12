@@ -203,6 +203,12 @@ header .container {
     margin-top: 0;
      }
 
+.owl-theme .owl-dots {
+    top: 10%;
+    left: 85%;
+
+}
+
 .left_item .offer_img {
     position: relative;
 
@@ -327,6 +333,10 @@ footer {
     font-size: 12px;
     text-align: left;
     font-family: 'GothamMediumRegular', sans-serif;
+}
+.lang-line {
+    border-right: #252525 2px solid;
+    padding-right: 6px;
 }
 
 .newsletter {
