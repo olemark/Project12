@@ -11,15 +11,21 @@
     }
 
     .items img {
-        width: 100%!important;
-        max-width: 95%!important;
+        width: 100% !important;
+        max-width: 95% !important;
     }
+
     div.items span {
-        font-size: 16px!important;
+        font-size: 16px !important;
     }
+
     span.product {
-        width: 100%!important;
-        max-width: 138px!important;
+        width: 100% !important;
+        max-width: 138px !important;
+    }
+
+    footer {
+        background-size: contain !important;
     }
 
 }
@@ -44,71 +50,81 @@
     }
 
     div.items span {
-        font-size: 12px!important;
+        font-size: 12px !important;
     }
+
     span.product {
-        width: 100%!important;
-        max-width: 138px!important;
+        width: 100% !important;
+        max-width: 138px !important;
     }
+
     .items img {
-        width: 100%!important;
-        max-width: 95%!important;
+        width: 100% !important;
+        max-width: 95% !important;
     }
+
     div.device_img {
-        height: 100%!important;
+        height: 100% !important;
     }
 
     div.connecting {
-        max-width: 35%!important;
-        bottom: 5px!important;
-        left: 5px!important;
+        max-width: 35% !important;
+        bottom: 5px !important;
+        left: 5px !important;
     }
 
     div.connecting a {
-        font-size: 20px!important;
-        line-height: 25px!important;
+        font-size: 20px !important;
+        line-height: 25px !important;
     }
 
-    div.footer-top{
-        display: block!important;
+    footer {
+        background-size: contain !important;
+    }
+
+    div.footer-top {
+        display: block !important;
     }
 
     div.footer-menu {
 
-        max-width: 100%!important;
+        max-width: 100% !important;
     }
+
     div.footer-menu ul li {
 
-        text-align: center!important;
+        text-align: center !important;
     }
 
     div.footer-menu ul li a {
-        font-size: 10px;!important;
+        font-size: 10px;
+    !important;
 
     }
 
-    div.language ul li{
-        max-width: 100%!important;
-        text-align: center!important;
-
+    div.language ul li {
+        max-width: 100% !important;
+        text-align: center !important;
 
     }
-    div.language ul{
+
+    div.language ul {
         display: flex;
-
 
     }
 
     div.language {
-        margin: auto!important;
-        margin-top: 10px!important;
+        margin: auto !important;
+        margin-top: 10px !important;
 
     }
+
     div.newsletter {
         display: block;
-        margin: auto!important;
-        margin-top: 10px!important;
+        margin: auto !important;
+        margin-top: 10px !important;
     }
+
     div .email:after {
         content: "";
         display: block;
@@ -120,26 +136,18 @@
     div .email input {
         float: right;
         margin-right: 10px;
-        max-width: 100%!important;
-        width: 200px!important;
+        max-width: 100% !important;
+        width: 200px !important;
         display: block;
 
     }
+
     div .email img {
 
-        right: 25px!important;
-        top: 11px!important;
+        right: 25px !important;
+        top: 11px !important;
     }
 }
-
-
-
-
-
-
-
-
-
 
 @media screen and (min-width: 400px) and (max-width: 599px) {
     ul.menu {
@@ -153,87 +161,98 @@
 
     div.contact {
 
-        font-size: 10px!important;
-       padding-left: 0!important;
+        font-size: 10px !important;
+        padding-left: 0 !important;
     }
+
     .right-header > .menu_link {
-        display: inline!important;
-        justify-content: unset!important;
-        position: relative!important;
+        display: inline !important;
+        justify-content: unset !important;
+        position: relative !important;
     }
+
     input.search {
-    max-width: 90%!important;
-    line-height: 20px!important;
+        max-width: 90% !important;
+        line-height: 20px !important;
     }
+
     div.marker img {
-    right: 15px!important;
-        top: 5px!important;
+        right: 15px !important;
+        top: 5px !important;
     }
 
     .comment {
         float: right;
         margin-left: 10px;
 
-
     }
+
     .cart {
         float: right;
     }
 
     div.connecting {
-        max-width: 35%!important;
-        bottom: 5px!important;
-        left: 5px!important;
+        max-width: 35% !important;
+        bottom: 5px !important;
+        left: 5px !important;
     }
 
     div.connecting a {
-        font-size: 20px!important;
-        line-height: 25px!important;
-    }
-    div.items {
-        display: inline!important;
+        font-size: 20px !important;
+        line-height: 25px !important;
     }
 
-    div.footer-top{
-        display: block!important;
-            }
+    div.items {
+        display: inline !important;
+    }
+
+    footer {
+        background-size: contain !important;
+    }
+
+    div.footer-top {
+        display: block !important;
+    }
 
     div.footer-menu {
 
-        max-width: 100%!important;
+        max-width: 100% !important;
     }
+
     div.footer-menu ul li {
 
-        text-align: center!important;
+        text-align: center !important;
     }
 
     div.footer-menu ul li a {
-        font-size: 10px;!important;
+        font-size: 10px;
+    !important;
 
     }
 
-    div.language ul li{
-        max-width: 100%!important;
-        text-align: center!important;
-
+    div.language ul li {
+        max-width: 100% !important;
+        text-align: center !important;
 
     }
-    div.language ul{
+
+    div.language ul {
         display: flex;
-
 
     }
 
     div.language {
-        margin: auto!important;
-        margin-top: 10px!important;
+        margin: auto !important;
+        margin-top: 10px !important;
 
     }
+
     div.newsletter {
         display: block;
-        margin: auto!important;
-        margin-top: 10px!important;
+        margin: auto !important;
+        margin-top: 10px !important;
     }
+
     div .email:after {
         content: "";
         display: block;
@@ -245,22 +264,24 @@
     div .email input {
         float: right;
         margin-right: 10px;
-        max-width: 100%!important;
-        width: 200px!important;
+        max-width: 100% !important;
+        width: 200px !important;
         display: block;
 
-            }
+    }
+
     div .email img {
 
-        right: 25px!important;
-        top: 11px!important;
+        right: 25px !important;
+        top: 11px !important;
     }
 
     .offer_img, .review_img {
         margin: 20px 0;
     }
+
     div.right_item {
-        margin-top: 20px!important;
+        margin-top: 20px !important;
     }
 
     div .owl-theme .owl-dots {
@@ -271,160 +292,166 @@
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 @media only screen and (max-width: 399px) {
 
     header div.container {
-        display: inline!important;
-        justify-content: unset!important;
-        align-items: unset!important;
+        display: inline !important;
+        justify-content: unset !important;
+        align-items: unset !important;
     }
+
     .menu_item a {
         font-size: 10px !important;
     }
+
     ul.menu {
-        text-align: unset!important;
-        margin-left: unset!important;
-        display: flex!important;
-        justify-content: space-between!important;
-        align-items: stretch!important;
+        text-align: unset !important;
+        margin-left: unset !important;
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: stretch !important;
 
     }
-header {
-    line-height: unset!important;
-    padding: unset!important;
-    margin-bottom: 10px!important;
-}
-.center-header {
-    margin: 20px 0 20px 0!important;
 
-max-width: 100%!important;}
+    header {
+        line-height: unset !important;
+        padding: unset !important;
+        margin-bottom: 10px !important;
+    }
 
+    .center-header {
+        margin: 20px 0 20px 0 !important;
+
+        max-width: 100% !important;
+    }
 
     .menu_item, .left-header, .contact {
-        text-align: center!important;
+        text-align: center !important;
     }
 
     .right-header > .menu_link {
-        display: inline!important;
-        justify-content: unset!important;
+        display: inline !important;
+        justify-content: unset !important;
     }
+
     .contact {
-        max-width: unset!important;
-        margin: auto!important;
-        margin-bottom: 15px!important;
-        padding-left: 0!important;
+        max-width: unset !important;
+        margin: auto !important;
+        margin-bottom: 15px !important;
+        padding-left: 0 !important;
     }
 
     .right-header {
-        max-width: unset!important;
+        max-width: unset !important;
     }
 
     input.search {
         max-width: 80%;
     }
+
     div.marker img {
-        right: 42px!important;
+        right: 42px !important;
     }
+
     .comment {
         float: right;
         margin-left: 10px;
 
-
     }
+
     .cart {
         float: right;
 
-
     }
+
     div .owl-theme .owl-dots {
         /*transform: rotate(90deg);*/
         top: 3% !important;
-        left: 38%!important;
-
+        left: 38% !important;
 
     }
 
     .owl-theme .owl-dots .owl-dot span {
-        width: 5px!important;
-        height: 5px!important;
+        width: 5px !important;
+        height: 5px !important;
     }
-
 
     div.items {
-        display: inline!important;
+        display: inline !important;
     }
-div.footer-top {
-    display: inline!important;
-}
+
+    footer {
+        background-size: contain !important;
+    }
+
+    div.footer-top {
+        display: inline !important;
+    }
+
     div.footer-menu ul li {
-        display: block!important;
-        width: 100%!important;
-        text-align: center!important;
-
+        display: block !important;
+        width: 100% !important;
+        text-align: center !important;
 
     }
-    div.footer-menu ul li a{
-        font-size: 15px;!important;
+
+    div.footer-menu ul li a {
+        font-size: 15px;
+    !important;
     }
-div.language ul li{
-    width: 100%!important;
-    text-align: center!important;
 
+    div.language ul li {
+        width: 100% !important;
+        text-align: center !important;
 
-}
-    div.language ul{
+    }
+
+    div.language ul {
         display: flex;
 
+    }
+
+    div.language {
+        margin: auto !important;
+        margin-top: 20px !important;
 
     }
-    div.language {
-         margin: auto!important;
-         margin-top: 20px!important;
-
-     }
 
     div.newsletter {
         display: block;
-        margin: auto!important;
-        margin-top: 20px!important;
+        margin: auto !important;
+        margin-top: 20px !important;
     }
 
     div .email input {
-        max-width: 90%!important;
-        width: 100%!important;
+        max-width: 90% !important;
+        width: 100% !important;
         display: block;
-        margin: auto!important;
+        margin: auto !important;
     }
+
     div .email img {
-        right: 25px!important;
-        top: 11px!important;
+        right: 25px !important;
+        top: 11px !important;
     }
+
     div.connecting {
-        max-width: 35%!important;
-        bottom: 5px!important;
-        left: 5px!important;
+        max-width: 35% !important;
+        bottom: 5px !important;
+        left: 5px !important;
     }
 
     div.connecting a {
-        font-size: 13px!important;
-        line-height: 13px!important;
+        font-size: 13px !important;
+        line-height: 13px !important;
     }
 
     .offer_img, .review_img {
         margin: 20px 0;
     }
+
     div.right_item {
-        margin-top: 20px!important;
+        margin-top: 20px !important;
     }
 
 }
