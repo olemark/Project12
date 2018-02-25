@@ -57,7 +57,10 @@
         width: 100% !important;
         max-width: 138px !important;
     }
+    span.bottom-offer {
+        right: 27px!important;
 
+    }
     .items img {
         width: 100% !important;
         max-width: 95% !important;
@@ -163,6 +166,7 @@
 
         font-size: 10px !important;
         padding-left: 0 !important;
+
     }
 
     .right-header > .menu_link {
@@ -172,23 +176,26 @@
     }
 
     input.search {
-        max-width: 90% !important;
+        max-width: 300px !important;
         line-height: 20px !important;
+        font-size: 10px!important;
+        margin-bottom: 5px!important;
+        position: relative;
+        display: block;
+        right: 10px;
+
+    }
+    div.marker {
+
     }
 
     div.marker img {
         right: 15px !important;
         top: 5px !important;
     }
-
-    .comment {
+    .comment, .cart {
         float: right;
-        margin-left: 10px;
-
-    }
-
-    .cart {
-        float: right;
+        margin-right: 10px!important;
     }
 
     div.connecting {
@@ -198,12 +205,19 @@
     }
 
     div.connecting a {
-        font-size: 20px !important;
+        font-size: 18px !important;
         line-height: 25px !important;
     }
 
     div.items {
         display: inline !important;
+    }
+    span.product {
+        text-align: center!important;
+        bottom: 30%!important;
+        left: 30%!important;
+        font-size: 30px!important;
+        margin-left: unset!important;
     }
 
     footer {
@@ -378,6 +392,17 @@
 
     div.items {
         display: inline !important;
+    }
+
+    span.product {
+        text-align: center!important;
+        bottom: 40px!important;
+        left: 50px!important;
+        font-size: 24px!important;
+        margin-left: unset!important;
+    }
+    div.left_item span {
+        font-size: 16px !important;
     }
 
     footer {
